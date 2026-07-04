@@ -26,6 +26,7 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 - React
 - DevOps
 - RAG
+- MangoDB / Supabase
 - And more...
 
 ### Tools & Platforms
