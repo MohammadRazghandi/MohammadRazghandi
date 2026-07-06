@@ -42,6 +42,7 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 - Exploring new technologies and frameworks for InnoBee
 - Crypto, Blockchain, and Smart Contracts
 - Developing exciting features at innobee.buzz
+- Global marketplace for models and creative talent (Publo.)
 - Continuously improving my development skills
 
 ---
