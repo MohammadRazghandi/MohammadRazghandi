@@ -37,19 +37,19 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 What I'm Currently Working On 
 
-- Exploring new technologies and frameworks for InnoBee
-- Crypto, Blockchain, and Smart Contracts
-- Developing exciting features at innobee.buzz
+- Exploring new technologies and frameworks for InnoBee 
+- Crypto, Blockchain, and Smart Contracts 
+- Developing exciting features at innobee.buzz 
 - Global marketplace for models and creative talent (Publo.)
-- Continuously improving my development skills
+- Continuously improving my development skills 
 
 ---
 
 ## 🌟 Interests
 
-- Full-stack web development
+- Full-stack web development  
 - Tech innovation and emerging technologies
 - Mentoring and knowledge sharing
 - Problem-solving and optimization
