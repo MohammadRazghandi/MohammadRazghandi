@@ -24,15 +24,15 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 - JavaScript / TypeScript
 - Python 
 - React 
-- DevOps
-- RAG
+- DevOps 
+- RAG 
 - MangoDB / Supabase 
 - And more...
 
 ### Tools & Platforms
 - Git & GitHub
-- Docker
-- VS Code
+- Docker 
+- VS Code 
 - Linux
 
 ---
