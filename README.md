@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-An entrepreneurial product &amp; growth leader with a proven track record of turning raw concepts into globally operational SaaS platforms and digital marketplaces. As the Co-Founder &amp; CEO of InnoBee, he successfully assembled and led a team of 20 professionals across 4 continents, managing everything from initial product architecture to international GTM strategy and business scale up.
+An entrepreneurial product &amp; growth leader with a proven track record of turning raw concepts into globally operational SaaS platforms and digital marketplaces. As the Co-Founder &amp; CEO of InnoBee, I successfully assembled and led a team of 20 professionals across 4 continents, managing everything from initial product architecture to international GTM strategy and business scale up.
 
 🔭 &nbsp;I'm currently working on **InnoBee: Innovation Management Platform**
 
