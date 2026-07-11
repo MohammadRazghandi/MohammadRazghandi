@@ -1,12 +1,12 @@
 # Hi there, I'm Mohammad Razghandi! 👋
 
-Welcome to my GitHub profile! I'm the Co-founder & CEO at InnoBee: Innovation Management Platform available at **innobee.buzz**. 
+Welcome to my GitHub profile! I'm the Co-founder & CEO at InnoBee: Innovation Management Platform available at **innobee.buzz**.   
 
 ---
 
 ## 🙋‍♂️ About Me 
 
-I help businesses overcome challenges, enhance performance, drive innovation, manage communication channels, and execute projects. My international experience as the Co-Founder & CEO of InnoBee has helped me excel in different aspects of the business and software development on a global level and I aim to share my expertise with other corporations regardless of their size.
+I help businesses overcome challenges, enhance performance, drive innovation, manage communication channels, and execute projects. My international experience as the Co-Founder & CEO of InnoBee has helped me excel in different aspects of the business and software development on a global level and I aim to share my expertise with other corporations regardless of their size.  
 
 ---
 
@@ -14,7 +14,7 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 
 - **Current Role:** Co-Founder & CEO at innobee.buzz
 - **Professional Background:** Business & innovation consultant, Full-stack marketing & branding expert, Full-stack developer & product designer, M.A. in Public Administration, B.A. in Industrial Management, Multiple industries: IT, FinTech, Crypto, Innovation, Smart Cities, Sustainability
-- **Passion:** Innovation!
+- **Passion:** Innovation!  
 
 ---
 
