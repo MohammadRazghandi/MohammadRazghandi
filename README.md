@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm the Co-founder & CEO at InnoBee: Innovation Ma
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
 I help businesses overcome challenges, enhance performance, drive innovation, manage communication channels, and execute projects. My international experience as the Co-Founder & CEO of InnoBee has helped me excel in different aspects of the business and software development on a global level and I aim to share my expertise with other corporations regardless of their size.
 
@@ -22,8 +22,8 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 
 ### Languages & Frameworks
 - JavaScript / TypeScript
-- Python 
-- React 
+- Python
+- React
 - DevOps 
 - RAG 
 - MangoDB / Supabase 
