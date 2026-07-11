@@ -25,14 +25,14 @@ I help businesses overcome challenges, enhance performance, drive innovation, ma
 - Python
 - React
 - DevOps 
-- RAG 
-- MangoDB / Supabase 
+- RAG
+- MangoDB / Supabase
 - And more...
 
 ### Tools & Platforms
-- Git & GitHub
-- Docker 
-- VS Code 
+- Git & GitHub 
+- Docker  
+- VS Code  
 - Linux
 
 ---
