@@ -92,8 +92,8 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 ## 💬 Let's Collaborate!
 
 I'm always open to:
-- ✨ Exciting project opportunities
-- 🤝 Collaboration and partnerships
+- ✨ Exciting project opportunities 
+- 🤝 Collaboration and partnerships 
 - 💡 Ideas and feedback
 - 📚 Learning and knowledge exchange
 
