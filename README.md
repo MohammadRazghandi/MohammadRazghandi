@@ -97,9 +97,9 @@ I'm always open to:
 - 💡 Ideas and feedback 
 - 📚 Learning and knowledge exchange 
 
-**Feel free to reach out – I'd love to connect and work together!**
+**Feel free to reach out – I'd love to connect and work together!** 
 
-**Let's Bee Innovative!**
+**Let's Bee Innovative!** 
 
 ---
 <p align="center"><i>🐝 From <a href="https://github.com/mohammadrazghandi">mohammadrazghandi</a></i></p>
