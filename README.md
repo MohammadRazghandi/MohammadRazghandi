@@ -60,8 +60,8 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 
 ### 🎯 What I'm Currently Working On
 - Exploring new technologies and frameworks for InnoBee
-- Crypto, Blockchain, and Smart Contracts
-- Developing exciting features at innobee.buzz
+- Crypto, Blockchain, and Smart Contracts 
+- Developing exciting features at innobee.buzz 
 - Global marketplace for models and creative talent (Publo.)
 - Continuously improving my development skills
 
@@ -70,7 +70,7 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 - Full-stack web development  
 - Tech innovation and emerging technologies 
 - Mentoring and knowledge sharing 
-- Problem-solving and optimization
+- Problem-solving and optimization 
 
 ### 🔗 Connect With Me
 
