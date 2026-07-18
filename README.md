@@ -68,9 +68,9 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 ### 🌟 Interests
 
 - Full-stack web development  
-- Tech innovation and emerging technologies 
-- Mentoring and knowledge sharing 
-- Problem-solving and optimization 
+- Tech innovation and emerging technologies
+- Mentoring and knowledge sharing
+- Problem-solving and optimization
 
 ### 🔗 Connect With Me
 
