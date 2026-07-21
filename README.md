@@ -18,7 +18,7 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 
 - **Current Role:** Co-Founder & CEO at innobee.buzz
 - **Professional Background:** Business & innovation consultant, Full-stack marketing & branding expert, Full-stack developer & product designer, M.A. in Public Administration, B.A. in Industrial Management, Multiple industries: IT, FinTech, Crypto, Innovation, Smart Cities, Sustainability
-- **Passion:** Innovation!  
+- **Passion:** Innovation!
 
 ### 🛠️ Tech Stack
 
@@ -67,10 +67,10 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 
 ### 🌟 Interests
 
-- Full-stack web development
+- Full-stack web development  
 - Tech innovation and emerging technologies
 - Mentoring and knowledge sharing
-- Problem-solving and optimization
+- Problem-solving and optimization 
 
 ### 🔗 Connect With Me
 
