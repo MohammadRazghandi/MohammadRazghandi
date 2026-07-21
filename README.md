@@ -72,10 +72,10 @@ An entrepreneurial product &amp; growth leader with a proven track record of tur
 - Mentoring and knowledge sharing
 - Problem-solving and optimization 
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me 
 
 <p align="left">
--Feel free to reach out for collaboration, questions, or just to say hello!
+-Feel free to reach out for collaboration, questions, or just to say hello! 
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammad-razghandi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
